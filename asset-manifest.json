@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/react-app-test-layout/static/css/main.c61fe05b.css",
-    "main.js": "/react-app-test-layout/static/js/main.787e3292.js",
+    "main.js": "/react-app-test-layout/static/js/main.ec6f3c36.js",
     "static/media/young-beautiful-model-posing.jpeg": "/react-app-test-layout/static/media/young-beautiful-model-posing.9f8d847546fec6742972.jpeg",
     "static/media/beautiful-naked-young-woman-with-perfect-clean-skin-smiling-touching-hair-white-wall-facial-treatment.jpeg": "/react-app-test-layout/static/media/beautiful-naked-young-woman-with-perfect-clean-skin-smiling-touching-hair-white-wall-facial-treatment.79d7e425bb6829192fdf.jpeg",
     "static/media/young-beautiful-woman-with-flowers-near-face.jpg": "/react-app-test-layout/static/media/young-beautiful-woman-with-flowers-near-face.7fb8dcf8ea6a16b3875a.jpg",
@@ -95,10 +95,10 @@
     "static/media/arrow-right-3-icon.svg": "/react-app-test-layout/static/media/arrow-right-3-icon.d415f77e8dc81ff77fdb53c0ee2da771.svg",
     "static/media/handle-icon.svg": "/react-app-test-layout/static/media/handle-icon.75eb6395a03cd55833f64fd24df39ff5.svg",
     "main.c61fe05b.css.map": "/react-app-test-layout/static/css/main.c61fe05b.css.map",
-    "main.787e3292.js.map": "/react-app-test-layout/static/js/main.787e3292.js.map"
+    "main.ec6f3c36.js.map": "/react-app-test-layout/static/js/main.ec6f3c36.js.map"
   },
   "entrypoints": [
     "static/css/main.c61fe05b.css",
-    "static/js/main.787e3292.js"
+    "static/js/main.ec6f3c36.js"
   ]
 }
