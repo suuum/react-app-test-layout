@@ -1,6 +1,7 @@
 {
   "name": "treact",
   "version": "0.1.0",
+  "homepage": "https://suuum.github.io/react-app-test-layout",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.0",
@@ -27,7 +28,9 @@
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject",
-    "deploy": "yarn build && netlify deploy --prod --dir=build"
+    "deploy": "yarn build && netlify deploy --prod --dir=build",
+    "predeploy": "npm run build",
+    "deploy-gp": "gh-pages -d build"
   },
   "eslintConfig": {
     "extends": "react-app",
@@ -53,5 +56,8 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "devDependencies": {
+    "gh-pages": "^4.0.0"
   }
 }
